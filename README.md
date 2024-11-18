@@ -6,9 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inongoy&label=Profile%20views&color=0e75b6&style=flat" alt="inongoy" /> </p>
 
-- 🌱 I’m currently learning **C++**
+- 👨‍🎓 I’m currently pursuing a Computer Programming and Analysis diploma at Fanshawe College.
+  
+- 🎓 I completed a Full-Stack Web Development Bootcamp at the University of Toronto School of Continuing Studies, where I mastered modern development frameworks and tools.
 
-- 💬 Ask me about **Full-Stack Web development**
+- 🌱 Currently exploring C++, with a focus on improving my problem-solving and system-level programming skills.
+
+- 💬 Ask me about web development, JavaScript frameworks, and full-stack technologies.
 
 - 📫 How to reach me **Ingoy247@icloud.com**
 
