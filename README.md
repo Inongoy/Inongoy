@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Ingoy247@icloud.com**
 
-- ⚡ Fun fact **I used to play 4 instruments**
+- ⚡ Fun fact I’m a musician at heart and have mastered playing four instruments!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
