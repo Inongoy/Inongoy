@@ -30,5 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inongoy&show_icons=true&locale=en" alt="inongoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inongoy&" alt="inongoy" /></p>
-
-<img align="right" alt="Coding" width="200" src="https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE4OTQ4MDEsIm5iZiI6MTczMTg5NDUwMSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE4VDAxNDgyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI4M2I5ZGY3Mzc4ZDhmMjQzODkwZWVkYTcyOWIyOWFkMjQ1NTJkYmFmNTU5NjYwM2U5YzYxOGJiYWJiMjZmZmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9sdDzuJmTXvesx5x2VBoN07IPndh6pOSsYwC0VJ2L0w">
