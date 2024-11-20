@@ -48,5 +48,3 @@
 
 <p>My journey into software development began in late December 2019, just before the world changed with the onset of the COVID-19 pandemic. It all started when my older brother encouraged me to explore web development, offering to support me financially if I completed Harvard's free online Web Development Bootcamp. Intrigued by the challenge, I dove headfirst into learning, dedicating countless hours to understanding the art and science of coding.</p>
 <p>By the time I completed the program, I had discovered a deep passion for software development. What started as a casual exploration quickly became a career-defining pursuit. Inspired by my early success, I have since dedicated myself to mastering software development and broadening my knowledge across various fields in computer science. That initial decision not only shaped my technical skills but also solidified my commitment to lifelong learning and innovation in the tech industry.</p>
-
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-CA/view/scott-pilgrim-scot-pilgrim-vs-the-world-beat-em-up-sprite-animation-bass-player-gif-16665931">
