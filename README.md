@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inongoy&label=Profile%20views&color=0e75b6&style=flat" alt="inongoy" /> </p>
 
 <h3>🌟 About Me:</h3>
+
 - 👨‍🎓 I’m currently pursuing a Computer Programming and Analysis diploma at Fanshawe College.
   
 - 🎓 I completed a Full-Stack Web Development Bootcamp at the University of Toronto School of Continuing Studies, where I mastered modern development frameworks and tools.
