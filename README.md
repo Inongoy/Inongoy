@@ -16,7 +16,7 @@
 
 - 💬 Ask me about web development, JavaScript frameworks, and full-stack technologies.
 
-- 📫 How to reach me **Ingoy247@icloud.com**
+- 📫 How to reach me **Innocentngoy7@gmail.com**
 
 - ⚡ Fun fact I’m a musician at heart and have mastered playing four instruments!
 
