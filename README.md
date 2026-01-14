@@ -9,11 +9,11 @@
 <h3>🌟 About Me:</h3>
 
 <p>I'm a software developer currently studying Computer Programming and Analysis at Fanshawe College, with a Full-Stack Web Development certificate from the University of Toronto School of Continuing Studies.</p>
-<br>
+
 <p>Right now, I'm diving into C++ to strengthen my understanding of systems programming and algorithmic problem-solving. I love building full-stack applications and have hands-on experience with modern JavaScript frameworks and development tools.</p>
-<br>
+
 <p>I'm always happy to discuss web development, software architecture, or collaborate on interesting projects. When I'm not coding, you'll find me making music. I play four different instruments.</p>
-<br>
+
 Let's connect: innocentngoy7@gmail.com
 
 <h3 align="left">Connect with me:</h3>
