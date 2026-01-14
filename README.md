@@ -8,7 +8,7 @@
 
 <h3>🌟 About Me:</h3>
 
-<p>I'm a software developer currently studying Computer Programming and Analysis at Fanshawe College, with a Full-Stack Web Development certificate from the University of Toronto School of Continuing Studies.</p>
+<p>I'm a Software Engineer currently studying Computer Programming and Analysis at Fanshawe College, with a Full-Stack Web Development certificate from the University of Toronto School of Continuing Studies.</p>
 
 <p>Right now, I'm diving into C++ to strengthen my understanding of systems programming and algorithmic problem-solving. I love building full-stack applications and have hands-on experience with modern JavaScript frameworks and development tools.</p>
 
