@@ -12,7 +12,7 @@
 
 <p>Right now, I'm diving into C++ to strengthen my understanding of systems programming and algorithmic problem-solving. I love building full-stack applications and have hands-on experience with modern JavaScript frameworks and development tools.</p>
 
-<p>I'm always happy to discuss web development, software architecture, or collaborate on interesting projects. When I'm not coding, you'll find me making music. I play four different instruments.</p>
+<p>I'm always happy to discuss web development, software architecture, or collaborate on interesting projects. When I'm not coding, you'll probably find me taking photos or making music. I play four different instruments.</p>
 
 Let's connect: innocentngoy7@gmail.com
 
