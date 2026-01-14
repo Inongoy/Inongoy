@@ -8,17 +8,13 @@
 
 <h3>🌟 About Me:</h3>
 
-- 👨‍🎓 I’m currently pursuing a Computer Programming and Analysis diploma at Fanshawe College.
-  
-- 🎓 I completed a Full-Stack Web Development Bootcamp at the University of Toronto School of Continuing Studies, where I mastered modern development frameworks and tools.
-
-- 🌱 Currently exploring C++, with a focus on improving my problem-solving and system-level programming skills.
-
-- 💬 Ask me about web development, JavaScript frameworks, and full-stack technologies.
-
-- 📫 How to reach me **Innocentngoy7@gmail.com**
-
-- ⚡ Fun fact I’m a musician at heart and have mastered playing four instruments!
+I'm a software developer currently studying Computer Programming and Analysis at Fanshawe College, with a Full-Stack Web Development certificate from the University of Toronto School of Continuing Studies.
+<br>
+Right now, I'm diving into C++ to strengthen my understanding of systems programming and algorithmic problem-solving. I love building full-stack applications and have hands-on experience with modern JavaScript frameworks and development tools.
+<br>
+I'm always happy to discuss web development, software architecture, or collaborate on interesting projects. When I'm not coding, you'll find me making music. I play four different instruments.
+<br>
+Let's connect: innocentngoy7@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
