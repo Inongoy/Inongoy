@@ -1,20 +1,46 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/Inongoy)
 <h1 align="center">Hi, I'm Innocent Ngoy</h1>
-<h3 align="center">A passionate Software Engineer from Canada</h3>
+<h3 align="center">Backend Focused Software Engineering Student Building Scalable Systems</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inongoy&label=Profile%20views&color=0e75b6&style=flat" alt="inongoy" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=inongoy&label=Profile%20views&color=0e75b6&style=flat" alt="inongoy" />
+</p>
 
-<h3>🌟 About Me:</h3>
+<h3>About Me</h3>
 
-<p>I'm a Software Engineer currently studying Computer Programming and Analysis at Fanshawe College, with a Full-Stack Web Development certificate from the University of Toronto School of Continuing Studies.</p>
+<p>
+I am a software engineering student studying Computer Programming and Analysis at Fanshawe College, with a Full Stack Web Development certificate from the University of Toronto School of Continuing Studies.
+</p>
 
-<p>Right now, I'm diving into C++ to strengthen my understanding of systems programming and algorithmic problem-solving. I love building full-stack applications and have hands-on experience with modern JavaScript frameworks and development tools.</p>
+<p>
+My primary focus is backend systems, API design, and application architecture. I build full stack applications using React, Node.js, Express, SQL, Java, and C++, applying clean architecture principles and structured problem solving to real world projects.
+</p>
 
-<p>I'm always happy to discuss web development, software architecture, or collaborate on interesting projects. When I'm not coding, you'll probably find me taking photos or making music. I play four different instruments.</p>
+<p>
+I am currently strengthening my foundation in C++ and systems level thinking to deepen my understanding of performance, memory management, and core computer science fundamentals.
+</p>
 
-Let's connect: innocentngoy7@gmail.com
+<p>
+I am actively seeking a software engineering internship where I can contribute to production level systems, collaborate within a strong engineering team, and continue developing as a backend oriented engineer.
+</p>
+
+<h3>Core Interests</h3>
+
+<ul>
+  <li>Backend development and API architecture</li>
+  <li>Database design and system logic</li>
+  <li>Scalable application structure</li>
+  <li>Clean and maintainable code</li>
+</ul>
+
+<p>
+Outside of software development, I enjoy photography and music. I play multiple instruments and value creativity as much as structured engineering.
+</p>
+
+
+Let's connect: innocent.ngoy2004@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
