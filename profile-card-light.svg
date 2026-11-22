@@ -4,6 +4,7 @@
 .value {fill: #0a3069;}
 .cc {fill: #c2cfde;}
 .ascii {font-size: 11px;}
+.panel {font-size: 13.5px;}
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
@@ -36,22 +37,22 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="480">+++======---==+=::..*####-..=:..-:::-+%########*******#*</tspan>
 <tspan x="15" y="498">======----==++=::..*####-..=:..-:::-+%########*******#*</tspan>
 </text>
-<text x="440" y="30" fill="#24292f"><tspan>innocent@ngoy</tspan> -—————————————————————————————</text>
-<text x="440" y="50"><tspan class="cc">. </tspan><tspan class="key">Profile</tspan><tspan class="cc"> ... </tspan><tspan class="value">Innocent Ngoy</tspan></text>
-<text x="440" y="70"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan><tspan class="cc"> ............ </tspan><tspan class="value">Backend systems, APIs, architecture</tspan></text>
-<text x="440" y="90"><tspan class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc"> ... </tspan><tspan class="value">Computer Programming and Analysis, Fanshawe</tspan></text>
-<text x="440" y="110"><tspan class="cc">. </tspan><tspan class="key">Certificate</tspan><tspan class="cc"> . </tspan><tspan class="value">Full Stack Web Development, University of Toronto</tspan></text>
-<text x="440" y="130"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc"> .... </tspan><tspan class="value">C++, Java, JavaScript</tspan></text>
-<text x="440" y="150"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="cc"> ............ </tspan><tspan class="value">React, Node.js, Express, SQL</tspan></text>
-<text x="440" y="170"><tspan class="cc">. </tspan><tspan class="key">Tools</tspan><tspan class="cc"> ............ </tspan><tspan class="value">Git, GraphQL</tspan></text>
-<text x="440" y="190"><tspan class="cc">. </tspan><tspan class="key">Interests</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Databases, scalable systems, clean code</tspan></text>
-<text x="440" y="210"><tspan class="cc">. </tspan><tspan class="key">Creative</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Photography, music, multiple instruments</tspan></text>
-<text x="440" y="230"><tspan class="cc">. </tspan><tspan class="key">Seeking</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Software engineering internship</tspan></text>
-<text x="440" y="270" fill="#24292f">- Contact ----------------------------------------</text>
-<text x="440" y="290"><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan><tspan class="cc"> ........ </tspan><tspan class="value">inongoy.github.io/portfolio</tspan></text>
-<text x="440" y="310"><tspan class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc"> ............ </tspan><tspan class="value">innocent.ngoy2004@gmail.com</tspan></text>
-<text x="440" y="330"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc"> ......... </tspan><tspan class="value">linkedin.com/in/innocent-ngoy</tspan></text>
-<text x="440" y="350"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc"> ........... </tspan><tspan class="value">github.com/Inongoy</tspan></text>
-<text x="440" y="390" fill="#24292f">- GitHub Stats -----------------------------------</text>
-<text x="440" y="410"><tspan class="cc">. </tspan><tspan class="key">Stats</tspan><tspan class="cc"> ............ </tspan><tspan class="value">See live profile widgets below</tspan></text>
+<text x="410" y="30" fill="#24292f"><tspan>innocent@ngoy</tspan> -——————————————————————————————</text>
+<text x="410" y="50" class="panel"><tspan class="cc">. </tspan><tspan class="key">Profile</tspan><tspan class="cc"> ... </tspan><tspan class="value">Innocent Ngoy</tspan></text>
+<text x="410" y="70" class="panel"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan><tspan class="cc"> ............ </tspan><tspan class="value">Backend systems, APIs, architecture</tspan></text>
+<text x="410" y="90" class="panel"><tspan class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc"> ... </tspan><tspan class="value">Programming and Analysis, Fanshawe College</tspan></text>
+<text x="410" y="110" class="panel"><tspan class="cc">. </tspan><tspan class="key">Certificate</tspan><tspan class="cc"> . </tspan><tspan class="value">Full Stack Web Dev, University of Toronto SCS</tspan></text>
+<text x="410" y="130" class="panel"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc"> .... </tspan><tspan class="value">C++, Java, JavaScript</tspan></text>
+<text x="410" y="150" class="panel"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="cc"> ............ </tspan><tspan class="value">React, Node.js, Express, SQL</tspan></text>
+<text x="410" y="170" class="panel"><tspan class="cc">. </tspan><tspan class="key">Tools</tspan><tspan class="cc"> ............ </tspan><tspan class="value">Git, GraphQL</tspan></text>
+<text x="410" y="190" class="panel"><tspan class="cc">. </tspan><tspan class="key">Interests</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Databases, scalable systems, clean code</tspan></text>
+<text x="410" y="210" class="panel"><tspan class="cc">. </tspan><tspan class="key">Creative</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Photography, music, multiple instruments</tspan></text>
+<text x="410" y="230" class="panel"><tspan class="cc">. </tspan><tspan class="key">Seeking</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Software engineering internship</tspan></text>
+<text x="410" y="270" fill="#24292f" class="panel">- Contact ---------------------------------------</text>
+<text x="410" y="290" class="panel"><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan><tspan class="cc"> ........ </tspan><tspan class="value">inongoy.github.io/portfolio</tspan></text>
+<text x="410" y="310" class="panel"><tspan class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc"> ............ </tspan><tspan class="value">innocent.ngoy2004@gmail.com</tspan></text>
+<text x="410" y="330" class="panel"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc"> ......... </tspan><tspan class="value">linkedin.com/in/innocent-ngoy</tspan></text>
+<text x="410" y="350" class="panel"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc"> ........... </tspan><tspan class="value">github.com/Inongoy</tspan></text>
+<text x="410" y="390" fill="#24292f" class="panel">- GitHub Stats -----------------------------------</text>
+<text x="410" y="410" class="panel"><tspan class="cc">. </tspan><tspan class="key">Stats</tspan><tspan class="cc"> ............ </tspan><tspan class="value">See live profile widgets below</tspan></text>
 </svg>
