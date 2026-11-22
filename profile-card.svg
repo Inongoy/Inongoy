@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.cc {fill: #c2cfde;}
+.text {fill: #24292f;}
+.bg {fill: #f6f8fa;}
+.ascii {font-size: 11px; white-space: pre;}
+.panel {font-size: 13.5px; white-space: pre;}
+@media (prefers-color-scheme: dark) {
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.cc {fill: #616e7f;}
+.text {fill: #c9d1d9;}
+.bg {fill: #161b22;}
+}
+text, tspan {white-space: pre;}
+</style>
+<rect class="bg" width="985px" height="530px" rx="15"/>
+<rect x="8" y="8" width="405px" height="435px" rx="12" fill="#e8dcc0"/>
+<text x="15" y="30.0" class="ascii"><tspan fill="#797063">-%@+.-@%%+</tspan><tspan fill="#5c5650">@@. +@   -</tspan><tspan fill="#83796a">=-+%%%%%%%</tspan><tspan fill="#776e62">+++%@+.=++</tspan><tspan fill="#484037">=-==   ...</tspan><tspan fill="#2e2a26">...       </tspan></text>
+<text x="15" y="42.5" class="ascii"><tspan fill="#71685c">.%%- -%%%%</tspan><tspan fill="#6b645a">%@@-.@- --</tspan><tspan fill="#7f7668">--@%%%%%++</tspan><tspan fill="#7b7264">+%%%%=-=++</tspan><tspan fill="#3c3731">+.-=      </tspan><tspan fill="#24211e">          </tspan></text>
+<text x="15" y="55.0" class="ascii"><tspan fill="#6d6458">=+%+ .%@+-</tspan><tspan fill="#6c6357">+@+ =++-==</tspan><tspan fill="#83796b">-+@%%%%++%</tspan><tspan fill="#787063">%%%%+=--++</tspan><tspan fill="#574e44">+ ==.--=--</tspan><tspan fill="#443d37">-........ </tspan></text>
+<text x="15" y="67.5" class="ascii"><tspan fill="#524b42">=+%=   +. </tspan><tspan fill="#978c80">@%@@@@@%+=</tspan><tspan fill="#8b8171">++%%@%%%%%</tspan><tspan fill="#746a5d">%@%==+-.+=</tspan><tspan fill="#5d5347">= ..-====+</tspan><tspan fill="#8c8271">+%%%%%%%%%</tspan></text>
+<text x="15" y="80.0" class="ascii"><tspan fill="#423c35">==%-      </tspan><tspan fill="#7d7567">++%++=+%%+</tspan><tspan fill="#82796b">++@%+++%%+</tspan><tspan fill="#776d5f">%%++%+===.</tspan><tspan fill="#5c5449">.-====----</tspan><tspan fill="#544f47">---------=</tspan></text>
+<text x="15" y="92.5" class="ascii"><tspan fill="#463e36">==+=.     </tspan><tspan fill="#786f61">  @%%%+%%%</tspan><tspan fill="#807769">++%=+%+%%+</tspan><tspan fill="#73695c">++%%%+==..</tspan><tspan fill="#736c62">-+++++++++</tspan><tspan fill="#746b5e">+++++++===</tspan></text>
+<text x="15" y="105.0" class="ascii"><tspan fill="#403a34">==+-      </tspan><tspan fill="#786f62"> .%+%%+%%%</tspan><tspan fill="#7e7466">%+=+%%%+=+</tspan><tspan fill="#7d7465">%%%%%+=--%</tspan><tspan fill="#776c5d">%%++=====+</tspan><tspan fill="#777065">++++++++++</tspan></text>
+<text x="15" y="117.5" class="ascii"><tspan fill="#4d463d">==++.  .. </tspan><tspan fill="#4f4840">     .=%%%</tspan><tspan fill="#82796a">%-+%%%++%%</tspan><tspan fill="#7a7163">%%%%%+=--+</tspan><tspan fill="#827766">%%%===+%%%</tspan><tspan fill="#8f8473">%%%%%%%%%%</tspan></text>
+<text x="15" y="130.0" class="ascii"><tspan fill="#4a453e">-++=--    </tspan><tspan fill="#3f3a34">       -@%</tspan><tspan fill="#877d6d">%=%%++%%%%</tspan><tspan fill="#817665">%%%%%+===%</tspan><tspan fill="#867d6e">%%%++%++@%</tspan><tspan fill="#8f8473">%%%%%%%%%%</tspan></text>
+<text x="15" y="142.5" class="ascii"><tspan fill="#4b443c">.=++-=    </tspan><tspan fill="#2c2724">         =</tspan><tspan fill="#847b6b">%++=+%%%%%</tspan><tspan fill="#7f7565">%%%%%+=-=%</tspan><tspan fill="#928675">@@@@@%%%+%</tspan><tspan fill="#8f8473">%%%%%%%%%%</tspan></text>
+<text x="15" y="155.0" class="ascii"><tspan fill="#413b35">=.----    </tspan><tspan fill="#534a3f">    *=@=.=</tspan><tspan fill="#908474">=@@@@+%@%%</tspan><tspan fill="#756b5e">%%%%%+-..=</tspan><tspan fill="#7c7468">++++++%++%</tspan><tspan fill="#918674">%%@%%%%@%%</tspan></text>
+<text x="15" y="167.5" class="ascii"><tspan fill="#594e41">=*=*@=    </tspan><tspan fill="#817464">. =@@@@@@*</tspan><tspan fill="#8c8275">=@@@@%+++%</tspan><tspan fill="#74695a">%%%++=..=*</tspan><tspan fill="#7e6c56">***==*=**=</tspan><tspan fill="#81715d">**=****+++</tspan></text>
+<text x="15" y="180.0" class="ascii"><tspan fill="#746451">******  =@</tspan><tspan fill="#9f9384">@@@@@@@@@@</tspan><tspan fill="#685f54">=...+%+=++</tspan><tspan fill="#6e604f">=====..***</tspan><tspan fill="#847159">***=**=***</tspan><tspan fill="#83735e">**=***=%%+</tspan></text>
+<text x="15" y="192.5" class="ascii"><tspan fill="#786d5f">==*%+%+ =@</tspan><tspan fill="#998d7d">@@@@@@%%%@</tspan><tspan fill="#685e52">*=-..%+-+=</tspan><tspan fill="#7d705e">++++==****</tspan><tspan fill="#86735a">*****=****</tspan><tspan fill="#716658">*====.-@+=</tspan></text>
+<text x="15" y="205.0" class="ascii"><tspan fill="#91877c">@@@@@+@=.@</tspan><tspan fill="#9a8e7f">@%=*@@@@@@</tspan><tspan fill="#595046">*=.-.-+-..</tspan><tspan fill="#695f52">.--+%+====</tspan><tspan fill="#84725a">****==****</tspan><tspan fill="#696157">++-+. +@+=</tspan></text>
+<text x="15" y="217.5" class="ascii"><tspan fill="#948a7d">@@@@@%@@=-</tspan><tspan fill="#998b7a">*@@@@%%@@*</tspan><tspan fill="#534a40">=.....==.-</tspan><tspan fill="#504941">--..%=--  </tspan><tspan fill="#645d52">.-==+%--+-</tspan><tspan fill="#5f574d">=%. . -@+=</tspan></text>
+<text x="15" y="230.0" class="ascii"><tspan fill="#948878">@@@+=@@@**</tspan><tspan fill="#807260">==+%@@==**</tspan><tspan fill="#504941">*. ..-----</tspan><tspan fill="#4b453e">---.-.....</tspan><tspan fill="#5a5247"> .-==@=--.</tspan><tspan fill="#595148">-% .-. +%=</tspan></text>
+<text x="15" y="242.5" class="ascii"><tspan fill="#988d7e">@@@+@@@*%%</tspan><tspan fill="#585048">-... ..=%@</tspan><tspan fill="#464039">*  .---.. </tspan><tspan fill="#463e36"> ..  ...=*</tspan><tspan fill="#564f47">=...-%-.--</tspan><tspan fill="#554f46">-%..-.  +%</tspan></text>
+<text x="15" y="255.0" class="ascii"><tspan fill="#867c6e">@%%@@@*=-.</tspan><tspan fill="#504a42">.---...--=</tspan><tspan fill="#3b3631">-  .-.  ..</tspan><tspan fill="#695e51">-=-...=@@@</tspan><tspan fill="#645a4f">@%=..=+.--</tspan><tspan fill="#433d37">.+=..    -</tspan></text>
+<text x="15" y="267.5" class="ascii"><tspan fill="#766d61">+%@@@==...</tspan><tspan fill="#504b44">--------..</tspan><tspan fill="#665d54">......=@@@</tspan><tspan fill="#968b7d">@@@@@==%@@</tspan><tspan fill="#716658">@@@*=.+-.-</tspan><tspan fill="#403b35">--=.    .-</tspan></text>
+<text x="15" y="280.0" class="ascii"><tspan fill="#766c5e">@@@@*.=-.-</tspan><tspan fill="#4b453e">-.....---.</tspan><tspan fill="#8c8278">..=@@@@@@@</tspan><tspan fill="#73695e">=..=@@..@@</tspan><tspan fill="#716657">@@@*=.-=.-</tspan><tspan fill="#403a34">-.-    .-=</tspan></text>
+<text x="15" y="292.5" class="ascii"><tspan fill="#75695b">@@@*=@=-. </tspan><tspan fill="#3c3631">.       +@</tspan><tspan fill="#847a6d">-===%+%@@@</tspan><tspan fill="#675f56">... @% +@@</tspan><tspan fill="#665d51">@@@=.-.-..</tspan><tspan fill="#4c433a">..-.  -===</tspan></text>
+<text x="15" y="305.0" class="ascii"><tspan fill="#7d705f">@@@**@*.-.</tspan><tspan fill="#4b443e">    ....@@</tspan><tspan fill="#6f675f">@=  ..+@@@</tspan><tspan fill="#70675c">+..-@-.@@@</tspan><tspan fill="#574f46">@@= .--. .</tspan><tspan fill="#534a41">-..-...===</tspan></text>
+<text x="15" y="317.5" class="ascii"><tspan fill="#7d6f5e">@@@@**=-.=</tspan><tspan fill="#6c6155">....===@@@</tspan><tspan fill="#6e655d">@ ....=@@@</tspan><tspan fill="#938777">@@@@%.*@@@</tspan><tspan fill="#4f473f">@= .---. .</tspan><tspan fill="#4d463e">-....-..=-</tspan></text>
+<text x="15" y="330.0" class="ascii"><tspan fill="#776955">======**=*</tspan><tspan fill="#8c7d69">*****=+@@@</tspan><tspan fill="#69625b">@+   .-@@@</tspan><tspan fill="#9a8f81">+@@@@%@@@*</tspan><tspan fill="#39332e">.  ....  .</tspan><tspan fill="#4c443d">-.....-..=</tspan></text>
+<text x="15" y="342.5" class="ascii"><tspan fill="#847159">*******==*</tspan><tspan fill="#8c8071">==*%%%=@@@</tspan><tspan fill="#958c80">@@%++@+@@@</tspan><tspan fill="#8e8375">+%@@%@@@*.</tspan><tspan fill="#24211e">          </tspan><tspan fill="#4b453e">.-...---..</tspan></text>
+<text x="15" y="355.0" class="ascii"><tspan fill="#695d4e">====++=-*.</tspan><tspan fill="#887964">=****%=%%@</tspan><tspan fill="#958b7d">@@@@@%%@+=</tspan><tspan fill="#75695d">-.=%@@@=.=</tspan><tspan fill="#4e4339">=====-.   </tspan><tspan fill="#4b453e">.-....-.--</tspan></text>
+<text x="15" y="367.5" class="ascii"><tspan fill="#706557">*==%+-=-=+</tspan><tspan fill="#5a5146">+=-...==--</tspan><tspan fill="#685c4f">+===.=+==-</tspan><tspan fill="#7a6c5b">=*@@@*.-==</tspan><tspan fill="#605344">====**=-  </tspan><tspan fill="#4c4640">.-....----</tspan></text>
+<text x="15" y="380.0" class="ascii"><tspan fill="#6d6356">*%@=....=%</tspan><tspan fill="#7b6c59">%%-.=*****</tspan><tspan fill="#89775e">********=@</tspan><tspan fill="#837564">@@@@*.=*==</tspan><tspan fill="#665b4d">---.=***=.</tspan><tspan fill="#4a453e"> .--..----</tspan></text>
+<text x="15" y="392.5" class="ascii"><tspan fill="#6f6659">==+--==+%+</tspan><tspan fill="#796a56">+-.=******</tspan><tspan fill="#918472">%%%@**%=@@</tspan><tspan fill="#847764">@@@==*%%==</tspan><tspan fill="#776856">=+--=*****</tspan><tspan fill="#504941">=...-.----</tspan></text>
+<text x="15" y="405.0" class="ascii"><tspan fill="#776957">*=**=++===</tspan><tspan fill="#837058">==********</tspan><tspan fill="#7b6b56">****=@.*==</tspan><tspan fill="#8b7c67">**=*@%%%*%</tspan><tspan fill="#796f61">+++.==%%%%</tspan><tspan fill="#5c544a">@%=..--...</tspan></text>
+<text x="15" y="417.5" class="ascii"><tspan fill="#7e6d57">====******</tspan><tspan fill="#8a765c">**********</tspan><tspan fill="#736552">***=--=*.*</tspan><tspan fill="#7f6f59">==*%****==</tspan><tspan fill="#736451">==..=*****</tspan><tspan fill="#675c4d">**%*=.-..-</tspan></text>
+<text x="15" y="430.0" class="ascii"><tspan fill="#322c28">=       ..</tspan><tspan fill="#64594b">.--=======</tspan><tspan fill="#6c5e4d">*=====-===</tspan><tspan fill="#84725a">=********=</tspan><tspan fill="#7b6a55">=-==******</tspan><tspan fill="#6e6150">*****=.--.</tspan></text>
+<text x="15" y="442.5" class="ascii"><tspan fill="#24211e">          </tspan><tspan fill="#2b2724">       .. </tspan><tspan fill="#534a41">.....--===</tspan><tspan fill="#706251">**======-=</tspan><tspan fill="#84725a">==********</tspan><tspan fill="#6b5d4b">******. ..</tspan></text>
+<text x="430" y="30" class="text"><tspan>innocent@ngoy</tspan> -——————————————————————————————</text>
+<text x="430" y="50" class="panel"><tspan class="cc">. </tspan><tspan class="key">Profile</tspan><tspan class="cc"> ... </tspan><tspan class="value">Innocent Ngoy</tspan></text>
+<text x="430" y="70" class="panel"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan><tspan class="cc"> ............ </tspan><tspan class="value">Backend systems, APIs, architecture</tspan></text>
+<text x="430" y="90" class="panel"><tspan class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc"> ... </tspan><tspan class="value">Computer Programming and Analysis, Fanshawe College</tspan></text>
+<text x="430" y="110" class="panel"><tspan class="cc">. </tspan><tspan class="key">Certificate</tspan><tspan class="cc"> . </tspan><tspan class="value">Full Stack Web Dev certificate, U of T SCS</tspan></text>
+<text x="430" y="130" class="panel"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc"> .... </tspan><tspan class="value">C++, Java, JavaScript</tspan></text>
+<text x="430" y="150" class="panel"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="cc"> ............ </tspan><tspan class="value">React, Node.js, Express, SQL</tspan></text>
+<text x="430" y="170" class="panel"><tspan class="cc">. </tspan><tspan class="key">Tools</tspan><tspan class="cc"> ............ </tspan><tspan class="value">Git, GraphQL</tspan></text>
+<text x="430" y="190" class="panel"><tspan class="cc">. </tspan><tspan class="key">Interests</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Databases, scalable systems, clean code</tspan></text>
+<text x="430" y="210" class="panel"><tspan class="cc">. </tspan><tspan class="key">Creative</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Photography, music, multiple instruments</tspan></text>
+<text x="430" y="230" class="panel"><tspan class="cc">. </tspan><tspan class="key">Seeking</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Software engineering internship</tspan></text>
+<text x="430" y="270" class="text panel">- Contact ---------------------------------------</text>
+<text x="430" y="290" class="panel"><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan><tspan class="cc"> ........ </tspan><tspan class="value">inongoy.github.io/portfolio</tspan></text>
+<text x="430" y="310" class="panel"><tspan class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc"> ............ </tspan><tspan class="value">innocent.ngoy2004@gmail.com</tspan></text>
+<text x="430" y="330" class="panel"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc"> ......... </tspan><tspan class="value">linkedin.com/in/innocent-ngoy</tspan></text>
+<text x="430" y="350" class="panel"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc"> ........... </tspan><tspan class="value">github.com/Inongoy</tspan></text>
+<text x="430" y="390" class="text panel">- GitHub Stats -----------------------------------</text>
+<text x="430" y="410" class="panel"><tspan class="cc">. </tspan><tspan class="key">Stats</tspan><tspan class="cc"> ............ </tspan><tspan class="value">See live profile widgets below</tspan></text>
+</svg>
