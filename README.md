@@ -36,12 +36,10 @@
 <h1 align="center">Hi, I'm Innocent Ngoy</h1>
 <h3 align="center">Backend Focused Software Engineering Student Building Scalable Systems</h3>
 
-<a href="https://github.com/Andrew6rant/Andrew6rant">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg">
-    <img alt="Andrew Grant's GitHub profile illustration" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inongoy/Inongoy/main/profile-card-dark.svg">
+  <img alt="Innocent Ngoy profile card" src="https://raw.githubusercontent.com/Inongoy/Inongoy/main/profile-card-light.svg">
+</picture>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
