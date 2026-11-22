@@ -32,6 +32,20 @@
 ======----==++=::..*####-..=:..-:::-+%########*******#*
 ```
 
+```text
+Innocent Ngoy
+-------------
+Focus      : Backend Engineering, APIs, System Design
+Education  : Software Engineering Student
+Stack      : C++, Java, JavaScript, React, Node.js, Express, SQL
+Interests  : Databases, Scalable Systems, Clean Architecture
+Creative   : Photography, Music, Multiple Instruments
+Portfolio  : https://inongoy.github.io/portfolio/
+Email      : innocent.ngoy2004@gmail.com
+GitHub     : https://github.com/Inongoy
+LinkedIn   : https://www.linkedin.com/in/innocent-ngoy/
+```
+
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/Inongoy)
 <h1 align="center">Hi, I'm Innocent Ngoy</h1>
 <h3 align="center">Backend Focused Software Engineering Student Building Scalable Systems</h3>
